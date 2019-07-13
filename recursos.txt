@@ -1,0 +1,32 @@
+https://tutobasico.com/convenciones-javascript/
+https://scotch.io/tag/javascript
+https://jsparagatos.com/
+
+--libros en español
+https://danielmoralesp.gitbooks.io/javascript-avanzado-en-espanol/content/
+
+-- training
+https://www.codewars.com/
+
+-- javascript un lengujae compilado o interpretado
+https://medium.com/@pharesdiego/javascript-un-lenguaje-compilado-o-interpretado-962ee405e123
+https://www.youtube.com/watch?v=p-iiEDtpy6I&feature=youtu.be
+
+--
+https://eslint.org/
+
+Les recomiendo ESlint para evitar a toda costa deployar un código no estandarizado.
+
+¿Que Es ESlint?
+
+ESLint es una herramienta de análisis estático que se utiliza con frecuencia para encontrar 
+patrones problemáticos o código que no se adhiere a ciertas pautas de estilo.
+
+En pocas palabras ESlint es una herramienta que puedes configurar para seguir forzosamente 
+un estilo de programación con unas pautas especificas (Lo puedes configurar a tu estilo) 
+para que todo tu código sea homogéneo
+
+--
+https://www.todojs.com/comparacion-objetos-javascript/
+
+https://medium.com/laboratoria-developers/por-valor-vs-por-referencia-en-javascript-de3daf53a8b9
