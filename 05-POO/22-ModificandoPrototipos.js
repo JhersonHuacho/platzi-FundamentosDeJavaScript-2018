@@ -1,4 +1,5 @@
-/*
+/* MODIFICANDO UN PROTOTIPO
+-----------------------------------
 En esta clase veremos cómo se modifican las clases de herencias. 
 JavaScript funciona con una estructura orientada a objetos y cada objeto tiene una propiedad privada 
 que mantiene un enlace a otro objeto llamado prototipo.
@@ -6,6 +7,8 @@ que mantiene un enlace a otro objeto llamado prototipo.
 
 /**
  * El prototipo es un objeto más de JS.
+ * Es muy importante donde colocamos las funciones que va tener el prototipo.
+ * Es importante que le coloquemos todas juntas.
 */
 
 function PersonaDos(nombre, apellido, altura) {

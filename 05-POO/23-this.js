@@ -19,10 +19,10 @@ function PersonaDos(nombre, apellido, altura) {
 }
 
 PersonaDos.prototype.saludar = () => {
-    console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`);
+    console.log(`Hola, me llamo ${this.nombre} ${this.apellido}`); // ERROR
 };
 PersonaDos.prototype.soyAlto = () => {
-    return this.altura > 1.8;
+    return this.altura > 1.8; // ERROR
 };
 
 var sachaDos = new PersonaDos('sacha', 'lifszyc', 1.72);
